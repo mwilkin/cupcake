@@ -1,0 +1,15 @@
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  color: blue;
+  font-weight: bold;
+  font-size: 150%;
+}
+
+img.screenfit {
+  width: 50%;
+}
